@@ -7,9 +7,9 @@
   <link rel="apple-touch-icon" sizes="76x76" href="<?= base_url() ?>/Assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="<?= base_url() ?>/Assets/img/favicon.png">
   <title>
-    Argon Dashboard 2 by Creative Tim
+  <?= $data['page_title'] ?> - <?= $data['page_name'] ?>
   </title>
-  <!--     Fonts and icons     -->
+  <!-- Fonts and icons -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
   <!-- Nucleo Icons -->
   <link href="<?= base_url() ?>/Assets/css/nucleo-icons.css" rel="stylesheet" />
