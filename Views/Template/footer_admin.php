@@ -1,3 +1,5 @@
+</div>
+
 <!--   Core JS Files   -->
 <script src="<?= base_url() ?>/Assets/js/core/popper.min.js"></script>
   <script src="<?= base_url() ?>/Assets/js/core/bootstrap.min.js"></script>

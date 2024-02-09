@@ -7,7 +7,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="<?= base_url() ?>/Assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="<?= base_url() ?>/Assets/img/favicon.png">
   <title>
-    Argon Dashboard 2 by Creative Tim
+    <?= $data["page_name"] ?>
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -19,8 +19,9 @@
   <link href="<?= base_url() ?>/Assets/css/nucleo-svg.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link id="pagestyle" href="<?= base_url() ?>/Assets/css/argon-dashboard.min.css" rel="stylesheet" />
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"> -->
 </head>
 
-<body class="g-sidenav-show   bg-gray-100">
-
-<?php navAdmin($data) ?>
+<body class="g-sidenav-show bg-gray-100">
+<div class="row">
+  <?php navAdmin($data) ?>
