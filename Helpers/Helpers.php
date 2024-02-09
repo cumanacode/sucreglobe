@@ -16,6 +16,11 @@
         $view_header = "Views/Template/header_admin.php";
         require_once ($view_header);
     }
+    function templateAdmin($data="")
+    {
+        $view_header = "Views/Template/template_admin.php";
+        require_once ($view_header);
+    }
     function navAdmin($data="")
     {
         $view_header = "Views/Template/nav_admin.php";
