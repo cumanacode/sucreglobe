@@ -16,6 +16,11 @@
         $view_header = "Views/Template/header_admin.php";
         require_once ($view_header);
     }
+    function headerHome($data="")
+    {
+        $view_header = "Views/Template/header_home.php";
+        require_once ($view_header);
+    }
     function templateAdmin($data="")
     {
         $view_header = "Views/Template/template_admin.php";
@@ -34,6 +39,11 @@
     function footerAdmin($data="")
     {
         $view_footer = "Views/Template/footer_admin.php";
+        require_once ($view_footer);        
+    }
+    function footerHome($data="")
+    {
+        $view_footer = "Views/Template/footer_home.php";
         require_once ($view_footer);        
     }
     function headerTienda($data="")
