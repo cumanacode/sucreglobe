@@ -28,9 +28,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link text-dark" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link text-dark" href="#portfolio">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link text-dark" href="#about">About</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="#services">Servicios</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="#ofices">Oficinas</a></li>
                         <li class="nav-item"><a class="nav-link text-dark" href="#team">Team</a></li>
                         <li class="nav-item"><a class="nav-link text-dark" href="#contact">Contact</a></li>
                     </ul>
@@ -40,8 +39,8 @@
 
         <header class="masthead">
             <div class="container d-sm-flex flex-sm-column align-items-sm-start">
-                <div class="masthead-subheading">Welcome To Our Studio!</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <div class="masthead-subheading">Dale la bienvenida a un nuevo destino</div>
+                <div class="masthead-heading text-uppercase">Viajemos Juntos</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
