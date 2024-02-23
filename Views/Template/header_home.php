@@ -31,7 +31,7 @@
                         <li class="nav-item"><a class="nav-link text-dark" href="#services">Servicios</a></li>
                         <li class="nav-item"><a class="nav-link text-dark" href="#ofices">Oficinas</a></li>
                         <li class="nav-item"><a class="nav-link text-dark" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link text-dark" href="#contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link text-dark" href="#contact">Contactos</a></li>
                     </ul>
                 </div>
             </div>
