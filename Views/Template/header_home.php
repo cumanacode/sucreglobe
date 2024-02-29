@@ -13,6 +13,9 @@
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="<?= base_url(); ?>/Assets/css/styles.css" rel="stylesheet" />
         <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="<?= base_url(); ?>/Assets/images/avion.png">
@@ -39,8 +42,8 @@
 
         <header class="masthead">
             <div class="container d-sm-flex flex-sm-column align-items-sm-start">
-                <div class="masthead-subheading">Dale la bienvenida a un nuevo destino</div>
-                <div class="masthead-heading text-uppercase">Viajemos Juntos</div>
+                <div class="italianno-regular-head">Dale la bienvenida a un nuevo destino</div>
+                <div class="montserrat-head text-uppercase">Viajemos Juntos</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>

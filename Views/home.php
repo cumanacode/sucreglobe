@@ -4,7 +4,7 @@
 <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Servicios</h2>
+                    <h2 class="montserrat text-uppercase">Servicios</h2>
                     <h3 class="section-subheading text-muted">El buen servicio se trata de empatía</h3>
                 </div>
                 <div class="row text-center d-md-fle justify-content-center">
@@ -13,7 +13,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-plane-departure fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Venta de boletos aéreos nacionales e internacionales</h4>
+                        <h4 class="my-3 montserrat">Venta de boletos aéreos nacionales e internacionales</h4>
                         <p class="text-muted"></p>
                     </div>
                     <div class="col-md-4">
@@ -21,7 +21,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-person-swimming fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Paquetes de viajes y servicios turísticos</h4>
+                        <h4 class="my-3 montserrat">Paquetes de viajes y servicios turísticos</h4>
                         <p class="text-muted"></p>
                     </div>
                     <div class="col-md-4">
@@ -29,7 +29,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-hotel fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Reserva de hoteles</h4>
+                        <h4 class="my-3 montserrat">Reserva de hoteles</h4>
                         <p class="text-muted"></p>
                     </div>
                     <div class="col-md-4">
@@ -37,7 +37,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-person-hiking fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Tours o Excursiones</h4>
+                        <h4 class="my-3 montserrat">Tours o Excursiones</h4>
                         <p class="text-muted"></p>
                     </div>
                     <div class="col-md-4">
@@ -45,7 +45,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-anchor fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Paseos en cruceros</h4>
+                        <h4 class="my-3 montserrat">Paseos en cruceros</h4>
                         <p class="text-muted"></p>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
         <section class="page-section" id="ofices">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Nuestras oficinas</h2>
+                    <h2 class="montserrat text-uppercase">Nuestras oficinas</h2>
                     <h3 class="section-subheading text-muted">¿Donde encontrarnos?</h3>
                 </div>
                 <div class="row text-center d-md-fle justify-content-center">
