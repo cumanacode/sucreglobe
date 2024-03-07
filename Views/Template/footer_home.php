@@ -19,10 +19,12 @@
         <!-- Core theme JS-->
         <script src="<?= base_url(); ?>/Assets/js/bootstrap.bundle.min.js"></script>
         <script src="<?= base_url(); ?>/Assets/js/scripts.js"></script>
+        <script src="<?= base_url(); ?>/Assets/js/sb-forms-0.4.1.js"></script>
+
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+        <!-- <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script> -->
     </body>
 </html>
