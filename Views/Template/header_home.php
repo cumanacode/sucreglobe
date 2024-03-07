@@ -7,18 +7,16 @@
         <meta name="author" content="" />
         <title>Sucre Globe</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="<?= base_url(); ?>/Assets/css/styles.css" rel="stylesheet" />
         <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="<?= base_url(); ?>/Assets/images/avion.png">
+        <!-- Font Awesome icons (free version)-->
+        <!-- Google fonts-->
+        <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" /> -->
+        <!-- <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" /> -->
+        <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+        <!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="<?= base_url(); ?>/Assets/css/fonts.css" rel="stylesheet">
+        <link href="<?= base_url(); ?>/Assets/css/styles.css" rel="stylesheet" />
     </head>
 <body id="page-top">
 
@@ -33,7 +31,7 @@
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link text-dark" href="#services">Servicios</a></li>
                         <li class="nav-item"><a class="nav-link text-dark" href="#ofices">Oficinas</a></li>
-                        <li class="nav-item"><a class="nav-link text-dark" href="#team">Team</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link text-dark" href="#team">Team</a></li> -->
                         <li class="nav-item"><a class="nav-link text-dark" href="#contact">Contactos</a></li>
                     </ul>
                 </div>
@@ -42,8 +40,8 @@
 
         <header class="masthead">
             <div class="container d-sm-flex flex-sm-column align-items-sm-start">
-                <div class="italianno-regular-head">Dale la bienvenida a un nuevo destino</div>
                 <div class="montserrat-head text-uppercase">Viajemos Juntos</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <div class="italianno-regular-head">Dale la bienvenida a un nuevo destino</div>
+                <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a> -->
             </div>
         </header>
