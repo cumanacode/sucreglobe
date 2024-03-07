@@ -61,7 +61,7 @@
                     <h3 class="section-subheading text-muted">¿Donde encontrarnos?</h3>
                 </div>
                 <div class="row text-center d-md-fle justify-content-center">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7846.747906591166!2d-64.168234!3d10.471158!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c3271ed9c7f0ed1%3A0x4afde458a5252147!2sSucre%20Globe%20Viajes%20y%20Turismo!5e0!3m2!1ses!2sve!4v1708656035955!5m2!1ses!2sve" width="1000" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe lazy="load" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7846.747906591166!2d-64.168234!3d10.471158!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c3271ed9c7f0ed1%3A0x4afde458a5252147!2sSucre%20Globe%20Viajes%20y%20Turismo!5e0!3m2!1ses!2sve!4v1708656035955!5m2!1ses!2sve" width="1000" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </section>
