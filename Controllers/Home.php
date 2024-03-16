@@ -11,4 +11,13 @@ class Home extends Controllers{
 		$this->views->getView($this,"home",$data);
     }
 
+
+    public function quienesSomos(){
+
+        $data['page_tag'] = NOMBRE_EMPESA;
+		$data['page_title'] = NOMBRE_EMPESA;
+		$data['page_name'] = "Quienes Somos";
+		$this->views->getView($this,"quienes_somos",$data);
+    }
+
 }

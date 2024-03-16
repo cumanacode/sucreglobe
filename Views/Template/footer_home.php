@@ -1,5 +1,8 @@
 <footer class="footer py-4" id="contact">
             <div class="container">
+                <div class="row text-center mb-4">
+                    <h2 class="montserrat text-uppercase">Contactos</h2>
+                </div>
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2023</div>
                     <div class="col-lg-4 my-3 my-lg-0">

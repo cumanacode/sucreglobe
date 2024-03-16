@@ -42,6 +42,6 @@
             <div class="container d-sm-flex flex-sm-column align-items-sm-start">
                 <div class="montserrat-head text-uppercase">Viajemos Juntos</div>
                 <div class="italianno-regular-head">Dale la bienvenida a un nuevo destino</div>
-                <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a> -->
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
